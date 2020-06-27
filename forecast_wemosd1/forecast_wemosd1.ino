@@ -7,7 +7,7 @@ SSD1306 display(0x3c, D4, D3);//SDA,SCL
 
 char *ssid = "U+NetE334";
 char *password = "";
-String APIKEY = "6d4455aa2fea02b38e63257cf5d4a79c";
+String APIKEY = ""; // Enter your API key
 String CityID = "1835848"; // Seoul, KR
 
 WiFiClient client;
