@@ -1,6 +1,6 @@
 # digitalwatch
 
-# Components
+## Components
 - WeMos D1 (ESP8266)
 - micro 5pin cable
 - 92 inch text OLED display
