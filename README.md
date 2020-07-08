@@ -14,17 +14,17 @@ It also has humidity and temperature on the display.
 ## How it works
 There are four buttons on each corner of the screen.
 
-_**Left-top button**_ is a Mode button which can change mode.
+_**Left-top button**_(Serial #1) is a Mode button which can change mode.
 
 ( day-changing mode -> time-changing mode -> alarm mode -> stopwatch mode -> timer mode)
 
 If you choose this buttom, a line will be drawn on the function that is about to change.
 
-_**Left-bottom button**_ is a adjust button which can adjust the setting.
+_**Left-bottom button**_(Serial #2) is a adjust button which can adjust the setting.
 
-_**Right-top button**_ can raise the time setting.
+_**Right-top button**_(Serial #3) can raise the time setting.
 
-_**Right-bottom button**_ can set down the time setting.
+_**Right-bottom button**_(Serial #4) can set down the time setting.
 
 ## Output
 ![그림1](https://user-images.githubusercontent.com/49015100/86437238-07d1ca00-bd3f-11ea-89cd-75176b914f62.jpg)
